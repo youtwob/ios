@@ -13,7 +13,6 @@
                      <key>url</key>
                      <string>http://219.143.38.251:8085/yxms/DownLoad/ios_app.asp</string>
                  </dict>
-
                  <dict>
                      <key>kind</key>
                      <string>full-size-image</string>
@@ -22,7 +21,6 @@
                      <key>url</key>
                      <string></string>
                  </dict>
- 
                  <dict>
                      <key>kind</key>
                      <string>display-image</string>
@@ -32,9 +30,7 @@
                      <string></string>
                  </dict>
              </array>
- 
              <key>metadata</key>
- 
              <dict>
                  <key>bundle-identifier</key>
                  <string>com.dcloud.H5939E8DA</string>
@@ -48,13 +44,6 @@
                  <string>销售管理</string>
              </dict>
          </dict>
- 
- 
      </array>
- 
- 
  </dict>
- 
- 
  </plist>
- 
