@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://219.143.38.251:8085/yxms/DownLoad/ios_app.asp</string>
+					<string>http://219.143.38.251:8085/yxms/app_version/yxms_app_ios.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dcloud.H50DEC6F5</string>
-				<key>bundle-version</key>
-				<string>1.0.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>subtitle</key>
-				<string>UDID</string>
-				<key>title</key>
-				<string>cxxx</string>
+                                <string>com.dcloud.H5939E8DA</string>
+                 		<key>bundle-version</key>
+                 		<string>1.0.1</string>
+                 		<key>kind</key>
+		                 <string>software</string>
+		                 <key>subtitle</key>
+		                 <string>UDID</string>
+		                 <key>title</key>
+		                <string>yxms</string>
 			</dict>
 		</dict>
 	</array>
