@@ -35,7 +35,7 @@ Enter file contents here<?xml version="1.0" encoding="UTF-8"?>
 				<key>bundle-identifier</key>
 				<string>io.dcloud.H5939E8DA</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
