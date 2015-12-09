@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dcloud.H5939E8DA</string>
+				<string>io.dcloud.H5939E8DA</string>
 				<key>bundle-version</key>
 				<string>1.0.1</string>
 				<key>kind</key>
